@@ -21,7 +21,7 @@ const EXPERIENCE = [
   {
     role: 'AI Technical Specialist',
     company: 'Invisible Technologies',
-    period: 'Current',
+    period: '2026 - Present',
     color: 'from-cyan-500 to-blue-500',
     bullets: [
       'Leading technical evaluations for "Personalization" projects focusing on RLHF, model alignment, and complex reasoning tasks.',
@@ -31,7 +31,7 @@ const EXPERIENCE = [
   {
     role: 'Language Data & Quality Reviewer',
     company: 'Uber AI Solutions',
-    period: 'Prior',
+    period: '2026 - Present',
     color: 'from-blue-500 to-teal-500',
     bullets: [
       'Labeled and structured large volumes of raw conversational data for speech recognition model training.',
@@ -41,7 +41,7 @@ const EXPERIENCE = [
   {
     role: 'Project Evaluator',
     company: 'Scale AI (Outlier)',
-    period: 'Prior',
+    period: '2025 - Present',
     color: 'from-teal-500 to-green-500',
     bullets: [
       'Contributed to 8+ projects handling over 80,000 AI data items.',
